@@ -1,20 +1,29 @@
 <div align="center">
 
+```txt
+ █████╗  ██████╗  ██╗   ██╗ ███████╗ ██╗  ██╗    ██╗  ██╗ ██╗  ██╗  █████╗  ███████╗ ██████╗  ██╗   ██╗
+██╔══██╗ ██╔══██╗ ██║   ██║ ██╔════╝ ██║  ██║    ██║ ██╔╝ ██║  ██║ ██╔══██╗ ██╔════╝ ██╔══██╗ ██║   ██║
+███████║ ██████╔╝ ██║   ██║ ███████╗ ███████║    █████╔╝  ███████║ ███████║ ███████╗ ██████╔╝ ██║   ██║
+██╔══██║ ██╔══██╗ ██║   ██║ ╚════██║ ██╔══██║    ██╔═██╗  ██╔══██║ ██╔══██║ ╚════██║ ██╔══██╗ ██║   ██║
+██║  ██║ ██║  ██║ ╚██████╔╝ ███████║ ██║  ██║    ██║  ██╗ ██║  ██║ ██║  ██║ ███████║ ██║  ██║ ╚██████╔╝
+╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝  ╚══════╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝  ╚═════╝
+```
+</div>
+
+
+  
 ```bash
 ┌──(arush㉿github)-[~/profile]
-└─$ whoami
+└─$ ./init_profile.sh
 ```
-
-# 👋 Hi, I'm Arush Khasru
 
 ### Full-Stack Developer • Open Source Enthusiast • Builder
 
 ```txt
 > Building scalable web applications, developer tools,
-> and AI-powered systems.
+> backend systems, and AI-powered software.
 ```
 
-</div>
 
 ---
 
@@ -23,8 +32,6 @@
 ```bash
 #!/bin/bash
 
-name="Arush Khasru"
-role="Full-Stack Developer"
 focus="Backend Engineering | System Design | Open Source"
 status="Building. Learning. Improving."
 
@@ -59,18 +66,30 @@ echo "🧩 Open to contributing to impactful open-source projects"
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00FF41)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge\&logo=c\&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=00FF41)
+
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=00FF41)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=nextdotjs\&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge\&logo=tailwind-css\&logoColor=00FF41)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge\&logo=redux\&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge\&logo=vite\&logoColor=00FF41)
+
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=00FF41)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge\&logo=express\&logoColor=00FF41)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00FF41)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge\&logo=socketdotio\&logoColor=00FF41)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=00FF41)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00FF41)
+
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=00FF41)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge\&logo=amazonaws\&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge\&logo=linux\&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=00FF41)
 
 </div>
 
@@ -88,7 +107,11 @@ echo "🧩 Open to contributing to impactful open-source projects"
 
 ---
 
-## 📈 `activity.log`
+
+
+---
+
+## 🔥 `activity.log`
 
 <div align="center">
 
@@ -126,7 +149,20 @@ echo "🧩 Open to contributing to impactful open-source projects"
 
 ---
 
+## 🌐 `connect --with-me`
+
 <div align="center">
+
+[![Mail](https://img.shields.io/badge/Mail-0D1117?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://arushkhasru.me)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge\&logo=x\&logoColor=00FF41)](https://x.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/your-linkedin)
+
+</div>
+
+---
+
+<div align="left">
 
 ```bash
 ┌──(arush㉿github)-[~/build]
