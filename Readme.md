@@ -156,7 +156,7 @@ echo "🧩 Open to contributing to impactful open-source projects"
 [![Mail](https://img.shields.io/badge/Mail-0D1117?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:contact@arushkhasru.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge\&logo=vercel\&logoColor=00FF41)](https://arushkhasru.me)
 [![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge\&logo=x\&logoColor=00FF41)](https://x.com/khasruaru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/arushkhasru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/arush-khasru)
 
 </div>
 
