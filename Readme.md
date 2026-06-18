@@ -25,7 +25,9 @@
 ```
 
 
----
+
+
+<!-- ---
 
 ## 🧑‍💻 `about_me.sh`
 
@@ -43,20 +45,21 @@ echo "🚀 Focused on writing clean, useful, and maintainable code"
 echo "🧩 Open to contributing to impactful open-source projects"
 ```
 
----
+--- -->
+
 
 ## ⚙️ `tech_stack.json`
 
 ```json
 {
-  "languages": ["JavaScript", "Python", "SQL", "C", "HTML", "CSS"],
-  "frontend": ["React", "Next.js", "Tailwind CSS", "Redux", "Vite"],
+  "frontend": ["React", "Next.js", "Tailwind CSS", "Redux", "Zustand", "Vite"],
   "backend": ["Node.js", "Express.js", "FastAPI", "Socket.IO", "REST APIs"],
   "database": ["MongoDB", "MySQL"],
-  "devops": ["Docker", "AWS EC2", "Vercel", "Render", "Linux"],
-  "tools": ["Git", "GitHub", "Postman", "VS Code", "npm"]
 }
 ```
+  <!--"languages": ["JavaScript", "Python", "SQL", "C", "HTML", "CSS"],
+  "devops": ["Docker", "AWS EC2", "Vercel", "Render", "Linux"],
+   "tools": ["Git", "GitHub", "Postman", "VS Code", "npm"] -->
 
 ---
 
@@ -166,7 +169,7 @@ echo "🧩 Open to contributing to impactful open-source projects"
 
 ```bash
 ┌──(arush㉿github)-[~/build]
-└─$ echo "Code. Learn. Build. Share."
+└─$ echo "Learning how to cook the code..!!"
 ```
 
 ### ⭐ Thanks for visiting my profile
