@@ -48,20 +48,20 @@ echo "🧩 Open to contributing to impactful open-source projects"
 --- -->
 
 
-## ⚙️ `tech_stack.json`
+<!--## ⚙️ `tech_stack.json`
 
 ```json
-{
+
   "frontend": ["React", "Next.js", "Tailwind CSS", "Redux", "Zustand", "Vite"],
   "backend": ["Node.js", "Express.js", "FastAPI", "Socket.IO", "REST APIs"],
   "database": ["MongoDB", "MySQL"],
+  "languages": ["JavaScript", "Python", "SQL", "C", "HTML", "CSS"],
+  "devops": ["Docker", "AWS EC2", "Vercel", "Render", "Linux"],
+   "tools": ["Git", "GitHub", "Postman", "VS Code", "npm"] 
 }
 ```
-  <!--"languages": ["JavaScript", "Python", "SQL", "C", "HTML", "CSS"],
-  "devops": ["Docker", "AWS EC2", "Vercel", "Render", "Linux"],
-   "tools": ["Git", "GitHub", "Postman", "VS Code", "npm"] -->
 
----
+--- -->
 
 ## 🛠 `tech_arsenal/`
 
